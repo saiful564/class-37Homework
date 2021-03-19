@@ -664,6 +664,7 @@ element {
 .footer a{
     color: #fff;
     text-decoration: none;
+    transition: .5s;
   
 }
 .footer_wiget img {
